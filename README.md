@@ -1,2 +1,2 @@
-# life-insurance-newsletter
+# life-insurance Promtional Email
 For email developer portfolio
